@@ -1,0 +1,1 @@
+Aqui es on anirà el perfil que administrarà els administrador i podrà crear llocs de gesticket per a entitats etc.
