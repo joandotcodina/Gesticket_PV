@@ -7,6 +7,7 @@
 ![LICENSE](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/150px-GPLv3_Logo.svg.png)
 
 ### http://gesticket.tk
+### Template utilitzada https://adminlte.io/
 
 ### Juny 2018 -- Juliol 2021 (fi de servei)
 
