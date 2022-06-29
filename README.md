@@ -1,4 +1,4 @@
-# GesTicket - Projecte de final de cicle de DAW (Desenvolupament d'Aplicacions Web) i Bioinformàtica
+# GesTicket 1.0 - Projecte de final de cicle de DAW (Desenvolupament d'Aplicacions Web) i Bioinformàtica
 ### Joan Romà Dot Codina
  Projecte per l'esplai C.E.L (*Associació Centre d'Esplai Loyola*) 
 ### ![LOGO](https://i.imgur.com/woWITwn.png)
